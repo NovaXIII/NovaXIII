@@ -69,13 +69,14 @@ I actively work on:
 
 ## 📊 GitHub Stats
 
-<div align="center">
+![Followers](https://img.shields.io/github/followers/NovaXIII?style=for-the-badge&color=000000)
+![Stars](https://img.shields.io/github/stars/NovaXIII?style=for-the-badge&color=292929)
+![Repos](https://img.shields.io/github/repos/NovaXIII?style=for-the-badge&color=404040)
 
-<img src="https://github-readme-stats-vercel-now-sh.vercel.app/api?username=NovaXIII&show_icons=true&theme=dark&hide_border=true" height="160"/>
-
-<img src="https://github-readme-streak-stats.vercel.app/?user=NovaXIII&theme=dark&hide_border=true" height="160"/>
-
-</div>
+## 🛠 Tech Stack
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus)
+![Python](https://img.shields.io/badge/Python-292929?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-404040?style=for-the-badge&logo=javascript)
 
 
 
