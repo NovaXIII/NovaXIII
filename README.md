@@ -71,10 +71,12 @@ I actively work on:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=novaxiii&show_icons=true&theme=dark&hide_border=true" height="160"/>
-<img src="https://streak-stats.demolab.com?user=novaxiii&theme=dark&hide_border=true" height="160"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NovaXIII&show_icons=true&theme=dark&hide_border=true" height="160"/>
+
+<img src="https://streak-stats.demolab.com?user=NovaXIII&theme=dark&hide_border=true" height="160"/>
 
 </div>
+
 
 
 ---
